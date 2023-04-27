@@ -1,0 +1,10 @@
+ .dropify-wrapper {
+     height: 166px;
+     width: 61%;
+ }
+
+ .dropify-wrapper .dropify-preview .dropify-infos .dropify-filename-inner {
+     font-size: 12px;
+     font-weight: 400;
+     padding: 2px;
+ }

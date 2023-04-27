@@ -1,0 +1,1 @@
+[10-Apr-2023 09:59:52 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.0.33. in /home/a200827w/public_html/dev.twentyfirstgen.com/tour/vendor/composer/platform_check.php on line 24
